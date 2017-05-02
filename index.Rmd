@@ -1,8 +1,8 @@
 ---
 title: "Adrian Gerhartz-Abraham"
 output:
-  html_notebook: default
   html_document: default
+  html_notebook: default
 ---
 
 ```{r load packages,message=FALSE,cache=TRUE,echo=FALSE}
